@@ -1,4 +1,4 @@
 # List of Writeup
 
-link : [Writeup](https://innate-carob-57a.notion.site/Writeup-4731bcd04e1f4f39a4fea857f69d32c3)
+link : [Write-up](https://innate-carob-57a.notion.site/Writeup-4731bcd04e1f4f39a4fea857f69d32c3)
 
